@@ -1,0 +1,8 @@
+{
+  "name": "typescript-3.2-rc-kind-bug",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "typescript": "^3.2.0-rc"
+  }
+}
